@@ -1,3 +1,4 @@
+![logo](https://github.com/Mayukh360/Mayukh360/blob/main/MERN%20Developer.png)
 <h1 align="center">Hi 👋, I'm Mayukh Chatterjee</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
