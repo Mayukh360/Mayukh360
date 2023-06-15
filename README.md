@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Node-JS, Express-JS**
 
-- 👨‍💻 My Portfolio Website [www.port.com](www.port.com)
+- 👨‍💻 My Portfolio Website [Portfolio](https://mayukh360.github.io/portfolio-mayukh-react/)
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **mayukhchatterjee2023@gmail.com**
 
-- 📄 Know about my experiences [www.cv.com](www.cv.com)
+
 
 - ⚡ Fun fact **I am passionate and focused on my job and always ready to take challenges**
 
